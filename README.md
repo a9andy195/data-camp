@@ -1,1 +1,1 @@
-# data-camp
+# data-camp competition project
